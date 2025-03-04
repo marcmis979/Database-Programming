@@ -1,0 +1,397 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3632984-B4C2-4296-A11B-D92FBD1A15EF}|DAL\\DAL.csproj|c:\\users\\student\\desktop\\database programming\\databaseprogrammingproject\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3632984-B4C2-4296-A11B-D92FBD1A15EF}|DAL\\DAL.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3632984-B4C2-4296-A11B-D92FBD1A15EF}|DAL\\DAL.csproj|c:\\users\\student\\desktop\\database programming\\databaseprogrammingproject\\dal\\webstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3632984-B4C2-4296-A11B-D92FBD1A15EF}|DAL\\DAL.csproj|solutionrelative:dal\\webstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4714177B-0A90-4565-90BC-C59CC25DB908}|Model\\Model.csproj|c:\\users\\student\\desktop\\database programming\\databaseprogrammingproject\\model\\usergroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4714177B-0A90-4565-90BC-C59CC25DB908}|Model\\Model.csproj|solutionrelative:model\\usergroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304174930_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\20250304174930_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304174347_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\20250304174347_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304173943_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\20250304173943_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304174108_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\20250304174108_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4714177B-0A90-4565-90BC-C59CC25DB908}|Model\\Model.csproj|c:\\users\\student\\desktop\\database programming\\databaseprogrammingproject\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4714177B-0A90-4565-90BC-C59CC25DB908}|Model\\Model.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304173446_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\20250304173446_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304173206_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\20250304173206_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4714177B-0A90-4565-90BC-C59CC25DB908}|Model\\Model.csproj|c:\\users\\student\\desktop\\database programming\\databaseprogrammingproject\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4714177B-0A90-4565-90BC-C59CC25DB908}|Model\\Model.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4714177B-0A90-4565-90BC-C59CC25DB908}|Model\\Model.csproj|c:\\users\\student\\desktop\\database programming\\databaseprogrammingproject\\model\\productgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4714177B-0A90-4565-90BC-C59CC25DB908}|Model\\Model.csproj|solutionrelative:model\\productgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304172754_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\20250304172754_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304172544_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\20250304172544_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304172316_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\20250304172316_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304172222_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\20250304172222_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304171610_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\20250304171610_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4714177B-0A90-4565-90BC-C59CC25DB908}|Model\\Model.csproj|c:\\users\\student\\desktop\\database programming\\databaseprogrammingproject\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4714177B-0A90-4565-90BC-C59CC25DB908}|Model\\Model.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4714177B-0A90-4565-90BC-C59CC25DB908}|Model\\Model.csproj|c:\\users\\student\\desktop\\database programming\\databaseprogrammingproject\\model\\orderposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4714177B-0A90-4565-90BC-C59CC25DB908}|Model\\Model.csproj|solutionrelative:model\\orderposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4714177B-0A90-4565-90BC-C59CC25DB908}|Model\\Model.csproj|c:\\users\\student\\desktop\\database programming\\databaseprogrammingproject\\model\\basketposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4714177B-0A90-4565-90BC-C59CC25DB908}|Model\\Model.csproj|solutionrelative:model\\basketposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304164051_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\20250304164051_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250304174930_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304174930_Init.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250304174930_Init.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304174930_Init.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250304174930_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:49:30.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250304174347_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304174347_Init.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250304174347_Init.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304174347_Init.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250304174347_Init.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAgwHMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:43:47.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250304174108_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304174108_Init.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250304174108_Init.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304174108_Init.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250304174108_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:41:08.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250304173943_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304173943_Init.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250304173943_Init.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304173943_Init.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250304173943_Init.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:39:43.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250304173446_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304173446_Init.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250304173446_Init.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304173446_Init.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250304173446_Init.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwC8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:34:46.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250304173206_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304173206_Init.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250304173206_Init.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304173206_Init.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250304173206_Init.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:32:06.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250304172754_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304172754_Init.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250304172754_Init.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304172754_Init.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250304172754_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:27:54.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250304172544_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304172544_Init.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250304172544_Init.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304172544_Init.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250304172544_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:25:44.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250304172316_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304172316_Init.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250304172316_Init.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304172316_Init.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250304172316_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:23:16.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250304172222_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304172222_Init.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250304172222_Init.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304172222_Init.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250304172222_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:22:22.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250304171610_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304171610_Init.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250304171610_Init.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304171610_Init.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250304171610_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:16:10.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250304164051_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304164051_Init.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250304164051_Init.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\Migrations\\20250304164051_Init.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250304164051_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:40:52.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAwwC0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:33:39.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderPosition.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\Model\\OrderPosition.cs",
+              "RelativeDocumentMoniker": "Model\\OrderPosition.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\Model\\OrderPosition.cs",
+              "RelativeToolTip": "Model\\OrderPosition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:25:48.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebstoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\WebstoreContext.cs",
+              "RelativeDocumentMoniker": "DAL\\WebstoreContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\DAL\\WebstoreContext.cs",
+              "RelativeToolTip": "DAL\\WebstoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:18:01.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Model\\Order.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\Model\\Order.cs",
+              "RelativeToolTip": "Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:17:13.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BasketPosition.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\Model\\BasketPosition.cs",
+              "RelativeDocumentMoniker": "Model\\BasketPosition.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\Model\\BasketPosition.cs",
+              "RelativeToolTip": "Model\\BasketPosition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:16:59.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\Model\\UserGroup.cs",
+              "RelativeDocumentMoniker": "Model\\UserGroup.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\Model\\UserGroup.cs",
+              "RelativeToolTip": "Model\\UserGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:16:46.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:16:33.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\Model\\ProductGroup.cs",
+              "RelativeDocumentMoniker": "Model\\ProductGroup.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\Model\\ProductGroup.cs",
+              "RelativeToolTip": "Model\\ProductGroup.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:16:23.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Database Programming\\DatabaseProgrammingProject\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:15:22.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
