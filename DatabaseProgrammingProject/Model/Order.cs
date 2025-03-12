@@ -14,6 +14,7 @@ namespace Model
         public int ID { get; set; }
         public int UserID { get; set; }
         public DateTime Date { get; set; }
+        public bool IsPaid { get; set; }
 
         [ForeignKey(nameof(UserID))]
         public virtual User User { get; set; }

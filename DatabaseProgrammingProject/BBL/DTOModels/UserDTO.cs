@@ -6,5 +6,5 @@ using System.Threading.Tasks;
 
 namespace BBL.DTOModels
 {
-    public record UserDTO(string Username, string Password);
+    public record UserDTO(string Login, string Password);
 }

@@ -6,5 +6,5 @@ using System.Threading.Tasks;
 
 namespace BBL.DTOModels
 {
-    public record ProductGroupDTO(int Id, string Name, bool HasSubGroups);
+    public record ProductGroupDTO(int ID, string Name, bool HasSubGroups);
 }

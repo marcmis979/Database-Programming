@@ -6,5 +6,5 @@ using System.Threading.Tasks;
 
 namespace BBL.DTOModels
 {
-    public record OrderResponseDTO(int Id, decimal Value, bool IsPaid, DateTime CreatedDate);
+    public record OrderResponseDTO(int ID, double TotalValue, bool IsPaid, DateTime Date);
 }
