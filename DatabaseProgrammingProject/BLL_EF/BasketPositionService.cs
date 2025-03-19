@@ -15,8 +15,7 @@ namespace BLL_EF
 
         public void AddToBasket(BasketPositionDTO item)
         {
-            var basketItem = _context.BasketPositions
-                .FirstOrDefault(b => b.ProductID == item.ProductID);
+            var basketItem = _context.BasketPositions.FirstOrDefault(b => b.ProductID == item.ProductID);
 
             if (basketItem != null)
             {
@@ -32,6 +31,7 @@ namespace BLL_EF
             }
             _context.SaveChanges();
         }
+
 
         public void UpdateBasketItems(int ProductID, int quantity)
         {

@@ -17,7 +17,7 @@ namespace BBL.ServiceInterfaces
             int? orderIdFilter = null,
             bool? isPaidFilter = null);
 
-        IEnumerable<OrderResponseDTO> GetOrderItems(int orderId);
+        IEnumerable<OrderPositionResponseDTO> GetOrderItems(int orderId);
     }
 }
-}
+

@@ -18,6 +18,7 @@ namespace DAL
         public DbSet<Order> Orders { get; set; }
         public DbSet<OrderPosition> OrderPositions { get; set; }
 
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);

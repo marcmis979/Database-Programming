@@ -14,14 +14,18 @@ namespace BLL_EF
     public class ProductService : IProductService
     {
         private readonly AppDbContext _context;
+        public ProductService(AppDbContext context)
+        {
+            _context = context;
+        }
 
         public IEnumerable<ProductResponseDTO> GetProducts(
-             string sortBy = "Name",
-             bool ascending = true,
-             string? nameFilter = null,
-             string? groupNameFilter = null,
-             int? groupIdFilter = null,
-             bool includeInactive = false)
+       string sortBy = "Name",
+       bool ascending = true,
+       string? nameFilter = null,
+       string? groupNameFilter = null,
+       int? groupIdFilter = null,
+       bool includeInactive = false)
         {
             var query = _context.Products
                 .Include(p => p.Group)
@@ -35,7 +39,7 @@ namespace BLL_EF
                 query = query.Where(p => p.GroupID == groupIdFilter.Value);
 
             if (!string.IsNullOrEmpty(groupNameFilter))
-                query = query.Where(p => p.Group.Name.Contains(groupNameFilter)); //czy produkt ma id grupy
+                query = query.Where(p => p.Group != null && p.Group.Name.Contains(groupNameFilter));
 
             query = sortBy switch
             {
@@ -44,26 +48,49 @@ namespace BLL_EF
                 _ => ascending ? query.OrderBy(p => p.Name) : query.OrderByDescending(p => p.Name),
             };
 
-            return query.Select(p => new ProductResponseDTO(
+            var products = query.ToList(); // wykonanie zapytania i pobranie danych z bazy
+
+            // Po pobraniu danych, wykonaj logikę formatowania grupy
+            foreach (var product in products)
+            {
+                product.Name = GetFormattedGroupName(_context, product.Group);
+            }
+
+            return products.Select(p => new ProductResponseDTO(
                 p.ID,
                 p.Name,
                 p.Price,
-                GetFormattedGroupName(p.Group)
+                p.Name
             )).ToList();
         }
+        public void DeleteProduct(int productId)
+        {
+            var product = _context.Products.Include(p => p.OrderPositions).FirstOrDefault(p => p.ID == productId);
 
-        private string GetFormattedGroupName(ProductGroup group)
+            if (product == null)
+                throw new Exception("Produkt nie istnieje.");
+
+            if (product.OrderPositions.Any())
+                throw new InvalidOperationException("Nie można usunąć produktu powiązanego z zamówieniami.");
+
+            _context.Products.Remove(product);
+            _context.SaveChanges();
+        }
+
+        private static string GetFormattedGroupName(AppDbContext context, ProductGroup group)
         {
             var groupNames = new List<string>();
             var currentGroup = group;
+
             while (currentGroup != null)
             {
                 groupNames.Insert(0, currentGroup.Name);
-                currentGroup = currentGroup.ParentGroup; //z contextu 
+                currentGroup = context.ProductGroups.FirstOrDefault(g => g.ID == currentGroup.ParentID);
             }
 
             return string.Join(" / ", groupNames);
         }
+
 
 
         public void AddProduct(ProductRequestDTO productDto)

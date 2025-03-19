@@ -1,0 +1,12 @@
+C:\Users\Marcin\Source\Repos\Database-Programming\DatabaseProgrammingProject\BBL\obj\Debug\net8.0\BBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcin\Source\Repos\Database-Programming\DatabaseProgrammingProject\BBL\obj\Debug\net8.0\BBL.AssemblyInfoInputs.cache
+C:\Users\Marcin\Source\Repos\Database-Programming\DatabaseProgrammingProject\BBL\obj\Debug\net8.0\BBL.AssemblyInfo.cs
+C:\Users\Marcin\Source\Repos\Database-Programming\DatabaseProgrammingProject\BBL\obj\Debug\net8.0\BBL.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Source\Repos\Database-Programming\DatabaseProgrammingProject\BBL\obj\Debug\net8.0\BBL.sourcelink.json
+C:\Users\Marcin\Source\Repos\Database-Programming\DatabaseProgrammingProject\BBL\bin\Debug\net8.0\BBL.deps.json
+C:\Users\Marcin\Source\Repos\Database-Programming\DatabaseProgrammingProject\BBL\bin\Debug\net8.0\BBL.dll
+C:\Users\Marcin\Source\Repos\Database-Programming\DatabaseProgrammingProject\BBL\bin\Debug\net8.0\BBL.pdb
+C:\Users\Marcin\Source\Repos\Database-Programming\DatabaseProgrammingProject\BBL\obj\Debug\net8.0\BBL.dll
+C:\Users\Marcin\Source\Repos\Database-Programming\DatabaseProgrammingProject\BBL\obj\Debug\net8.0\refint\BBL.dll
+C:\Users\Marcin\Source\Repos\Database-Programming\DatabaseProgrammingProject\BBL\obj\Debug\net8.0\BBL.pdb
+C:\Users\Marcin\Source\Repos\Database-Programming\DatabaseProgrammingProject\BBL\obj\Debug\net8.0\ref\BBL.dll
